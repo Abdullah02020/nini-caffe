@@ -1,0 +1,170 @@
+F:\VS\NiniCafe\NiniCafe\bin\Debug\NiniCafe.exe.config
+F:\VS\NiniCafe\NiniCafe\bin\Debug\NiniCafe.exe
+F:\VS\NiniCafe\NiniCafe\bin\Debug\NiniCafe.pdb
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.Licensing.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.csproj.AssemblyReference.cache
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.Properties.Resources.resources
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.csproj.GenerateResource.cache
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.exe.licenses
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.csproj.CoreCompileInputs.cache
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.csproj.CopyComplete
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.exe
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.pdb
+F:\VS\NiniCafe\NiniCafe\bin\Debug\Guna.UI.dll
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.GuestOrder.resources
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.UserOredr.resources
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.ItemsForm.resources
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.UsersForm.resources
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.LogInForm.resources
+F:\VS\NiniCafe\NiniCafe\obj\Debug\NiniCafe.ViewOrders.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\NiniCafe.exe.config
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.exe
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.pdb
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\NiniCafe.exe
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\NiniCafe.pdb
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\mscorlib.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\System.Net.Http.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\System.Net.Http.xml
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\normidna.nlp
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\normnfc.nlp
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\normnfd.nlp
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\normnfkc.nlp
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\bin\Debug\normnfkd.nlp
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.LogInForm.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.GuestOrder.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.ItemsForm.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.Properties.Resources.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.UserOredr.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.UsersForm.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.ViewOrders.resources
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.csproj.GenerateResource.Cache
+C:\Users\Abdullah Mohammed\Desktop\NiniCafe\NiniCafe\NiniCafe\obj\Debug\NiniCafe.exe.licenses
